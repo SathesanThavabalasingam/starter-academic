@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/SathesanThavabalasingam/sathesanthavabalasingam.github.io.git
+	branch = master
+[submodule "sathesanthavabalasingam.github.io"]
+	path = sathesanthavabalasingam.github.io
+	url = https://github.com/SathesanThavabalasingam/sathesanthavabalasingam.github.io.git

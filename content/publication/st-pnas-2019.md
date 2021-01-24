@@ -36,7 +36,7 @@ summary: We demonstrate that multivariate patterns of activity in the human hipp
 tags: [hippocampus, CA1, episodic memory, time, functional magnetic resonance imaging]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [MIT News](https://news.mit.edu/2017/networks-neurons-stretch-compress-control-timing-1204)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
