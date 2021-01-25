@@ -13,7 +13,7 @@ else
   cd public
   git add -A
   git commit -am "$1"
-  git push
+  git push origin main
 
   cd ..
 fi
