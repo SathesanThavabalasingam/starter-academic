@@ -19,7 +19,7 @@ bio: I am a Neuroscientist turned Data Scientist with an interest in deriving me
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Date Science
+- Data Science
 - Data Engineering
 
 # Education to show in About widget
