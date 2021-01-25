@@ -39,7 +39,7 @@ tags:
 
 
 categories:
-- Medium Blog Post
+- Medium Post
 
 ---
 
