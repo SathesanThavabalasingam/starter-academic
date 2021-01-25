@@ -70,4 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Sath Thavabalasingam is a Data Scientist at Tangerine Bank. His interests include developing elegant solutions to solve problems using data and analytics. He is currently involved in developing predictive models to drive acquisition and pricing optimization at Tangerine.
+I am currently a Data Scientist at Tangerine Bank, an online and mobile banking company. My interests include developing elegant solutions to solve problems using data and analytics. In my role I am involved in developing predictive models to drive acquisition and pricing optimization at Tangerine.
+
+Prior to transitioning to Data Science, my Ph.D research revolved around exploring human memory and perception.

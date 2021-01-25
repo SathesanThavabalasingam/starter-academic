@@ -24,20 +24,15 @@ date_format:
 experience:
   - title: Data Scientist
     company: Tangerine Bank
-    company_url: ''
+    company_url: 'https://tangerine.ca'
     location: Toronto
     date_start: '2019-10-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Managed multiple data science projects using financial data.
 
   - title: Data Science Fellow
     company: Insight Data Science
-    company_url: ''
+    company_url: 'https://insightfellows.com/data-science'
     location: Toronto
     date_start: '2019-05-01'
     date_end: '2020-07-31'
@@ -45,9 +40,17 @@ experience:
 
   - title: Ph.D Research Scientist
     company: University of Toronto
-    company_url: ''
+    company_url: 'https://www.researchgate.net/profile/Sathesan_Thavabalasingam'
     location: Toronto
     date_start: '2015-09-01'
     date_end: '2019-08-31'
     description: Used analytics and predictive models to explore large MRI datasets.
+
+  - title: Course Instructor & Teaching Assistant
+    company: University of Toronto
+    company_url: 'https://www.researchgate.net/profile/Sathesan_Thavabalasingam'
+    location: Toronto
+    date_start: '2014-09-01'
+    date_end: '2019-08-31'
+    description: Taught multiple courses on analytics and statistics.
 ---
