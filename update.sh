@@ -6,7 +6,7 @@ if [ -z "$1" ]; then
 else
   git add -A
   git commit -am "$1"
-  git push
+  git push origin HEAD: master
 
   hugo
 
