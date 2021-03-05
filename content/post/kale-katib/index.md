@@ -1,9 +1,9 @@
 ---
-title: Using Kale + Katib to save best fitted model
-subtitle: Savings each fitted model and params for hyperparameter tuning with Katib.
+title: Using Kale + Kubeflow Katib to Save Best Fitted Model
+subtitle: Saving each fitted model and parameters for hyperparameter tuning with Kubeflow Katib.
 
 # Summary for listings and search engines
-summary: In this post on medium, I describe the Tweedie loss function and how it can be used to model zero-inflated data.
+summary: Some code to help with saving each fitted model and parameters for hyperparameter tuning with Kubeflow Katib.
 
 # Link this post with a project
 projects: []
