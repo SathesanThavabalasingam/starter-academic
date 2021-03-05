@@ -44,7 +44,7 @@ categories:
 ---
 
 ## Overview
-[**Kale**](https://medium.com/kubeflow/kubeflow-kale-simplify-building-better-ml-pipelines-with-automatic-hyperparameter-tuning-5821747f4fcb) can be used to unify the workflow across components of ML projects, and presents a seamless process to create ML pipelines for HP tuning, starting from your Jupyter Notebook. One can use Kale to convert a Jupyter Notebook to a Kubeflow Pipeline without any modification to the original Python code. Within the Kale panel we can enable Hyperparameter tuning with [**Kubeflow Katib**](https://www.arrikto.com/tutorials/data-science/build-an-end-to-end-ml-workflow-from-notebook-to-hp-tuning-to-kubeflow-pipelines-with-kale/.
+[**Kale**](https://medium.com/kubeflow/kubeflow-kale-simplify-building-better-ml-pipelines-with-automatic-hyperparameter-tuning-5821747f4fcb) can be used to unify the workflow across components of ML projects, and presents a seamless process to create ML pipelines for HP tuning, starting from your Jupyter Notebook. One can use Kale to convert a Jupyter Notebook to a Kubeflow Pipeline without any modification to the original Python code. Within the Kale panel we can enable Hyperparameter tuning with [**Kubeflow Katib**](https://www.arrikto.com/tutorials/data-science/build-an-end-to-end-ml-workflow-from-notebook-to-hp-tuning-to-kubeflow-pipelines-with-kale/).
 
 {{< figure src="https://codelabs.developers.google.com/codelabs/cloud-kubeflow-minikf-kale-katib/img/f4e34fff6a93aa60.png" title="Enable Kubeflow Katib in Kale panel of Jupyter notebook" >}}
 
